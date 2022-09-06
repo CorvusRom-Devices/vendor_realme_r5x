@@ -584,6 +584,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/r5x/proprietary/vendor/firmware/tp/19631/nt_hlt_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19631/nt_hlt_fw.bin \
     vendor/realme/r5x/proprietary/vendor/firmware/tp/19631/nt_hlt_fw_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19631/nt_hlt_fw_mp.bin \
     vendor/realme/r5x/proprietary/vendor/firmware/tp/19631/nt_hlt_fw_signed.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19631/nt_hlt_fw_signed.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/wlan/qca_cld/wlan_mac.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/qca_cld/wlan_mac.bin \
     vendor/realme/r5x/proprietary/vendor/fptmp/libets_teeclient_v2.so:$(TARGET_COPY_OUT_VENDOR)/fptmp/libets_teeclient_v2.so \
     vendor/realme/r5x/proprietary/vendor/fptmp/android.hardware.biometrics.fingerprint@2.1-service.r5x:$(TARGET_COPY_OUT_VENDOR)/fptmp/android.hardware.biometrics.fingerprint@2.1-service.r5x \
     vendor/realme/r5x/proprietary/vendor/lib/android.hardware.camera.provider@2.4-external.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.camera.provider@2.4-external.so \
